@@ -14,12 +14,12 @@ fetch('https://api.publicapis.org/entries')
 
         clone.id = "newSection"+i;
 
-        clone.querySelector("h1").innerHTML = myJson.entries[i].API;
+        clone.querySelector("h2").innerHTML = myJson.entries[i].API;
         clone.querySelector("p.first").innerHTML = myJson.entries[i].Description;
         clone.querySelector("p.last").innerHTML = myJson.entries[i].Category;
         clone.querySelector("a").href = myJson.entries[i].Link;
         clone.querySelector("a").innerHTML = myJson.entries[i].Link;
-        document.querySelector("body").append(clone);
+        document.querySelector("div").append(clone);
         
    }
 

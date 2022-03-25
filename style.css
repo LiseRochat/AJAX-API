@@ -1,0 +1,41 @@
+body{
+    margin: 0 5% 0 5%;
+}
+
+h1{
+    text-align: center;
+    color:#fa8072;
+}
+
+p{
+    text-align: center;
+}
+
+div{
+    display:flex;
+    justify-content: space-around;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+section{
+    border: 2px #0987ad solid;
+    border-radius: 10px;
+    width:350px;
+    padding:1%;
+    margin:1%;
+}
+
+section:first-child{
+    display: none;
+}
+
+h2{
+    text-align: center;
+    color: #8dc92d;
+}
+
+a:hover{
+    color:#0987ad;
+}
+
