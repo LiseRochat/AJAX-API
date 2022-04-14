@@ -29,7 +29,8 @@ A simple project for retrieve data of one API and pin up them. </br>
 
 ### Visual
 Here is an overview of project. </br>
-<img src="/img/screenshot01.png" alt="screenshot module lr_proinfo">
+<img src="/img/screenshot01.png" alt="screenshot result">
+<img src="/img/screenshot02.png" alt="screenshot API data">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
