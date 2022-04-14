@@ -73,7 +73,7 @@ Don't forget to give the project a star! Thanks again!
 ***
 
 ### Contact 
-Rochat Lise - liserochat@live.fr
+Rochat Lise - liserochat@live.fr </br>
 Project Link: [https://github.com/LiseRochat/AJAX-API](https://github.com/LiseRochat/AJAX-API)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
